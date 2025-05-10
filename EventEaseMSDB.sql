@@ -50,8 +50,3 @@ VALUES (1, 1, '2025-04-04'),
 SELECT * FROM Venue
 SELECT * FROM [Event]
 SELECT * FROM Booking
-
-SELECT Booking.BookingID, v.VenueName, v.[Location], e.EventName, e.EventDate, Booking.BookingDate
-FROM Booking
-JOIN Venue v ON Booking.VenueID = v.VenueID
-JOIN [Event] e ON Booking.EventID = e.EventID
