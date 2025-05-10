@@ -19,7 +19,7 @@ namespace EventEaseManagementSystem
 
             // Register database context
             builder.Services.AddDbContext<EventEaseDBContext>(options =>
-            options.UseSqlServer(builder.Configuration.GetConnectionString("LiveConnect")));
+            options.UseSqlServer(builder.Configuration.GetConnectionString("LocalConnect")));
 
             var app = builder.Build();
 

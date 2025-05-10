@@ -50,3 +50,21 @@ VALUES (1, 1, '2025-04-04'),
 SELECT * FROM Venue
 SELECT * FROM [Event]
 SELECT * FROM Booking
+
+SELECT b.BookingID, v.VenueName, v.[Location], e.EventName, e.EventDate, b.BookingDate
+FROM Booking b
+JOIN Venue v ON b.VenueID = v.VenueID
+JOIN [Event] e ON b.EventID = e.EventID
+
+GO
+
+CREATE VIEW BookingView AS
+SELECT b.BookingID, b.BookingDate, v.VenueName, v.[Location] AS VenueLocation, v.Capacity, v.ImageURL AS [Image], e.EventName, e.EventDate, e.[Description] AS Details
+FROM Booking b
+JOIN Venue v ON b.VenueID = v.VenueID
+JOIN [Event] e ON b.EventID = e.EventID
+;
+
+GO
+
+SELECT * FROM BookingView

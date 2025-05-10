@@ -22,6 +22,8 @@ public partial class EventEaseDBContext : DbContext
 
     public virtual DbSet<Venue> Venues { get; set; }
 
+    public virtual DbSet<Customer> Customers { get; set; }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Booking>(entity =>

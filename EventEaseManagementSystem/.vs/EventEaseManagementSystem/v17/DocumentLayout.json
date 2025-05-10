@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe-part1\\eventeasemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250510181849_ChangedProfilePictureToNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250510181849_ChangedProfilePictureToNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe-part1\\eventeasemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250510181641_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250510181641_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe-part1\\eventeasemanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe-part1\\eventeasemanagementsystem\\data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +39,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Title": "20250510181849_ChangedProfilePictureToNullable.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250510181849_ChangedProfilePictureToNullable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250510181849_ChangedProfilePictureToNullable.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250510181849_ChangedProfilePictureToNullable.cs",
+              "RelativeToolTip": "Migrations\\20250510181849_ChangedProfilePictureToNullable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T15:38:39.671Z",
+              "WhenOpened": "2025-05-10T18:18:49.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T15:38:14.221Z"
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:46:08.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T10:59:23.393Z"
+              "Title": "20250510181641_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250510181641_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250510181641_FirstMigration.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250510181641_FirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20250510181641_FirstMigration.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwIQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:16:41.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EventEaseDBContext.cs",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\Data\\EventEaseDBContext.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Data\\EventEaseDBContext.cs",
               "RelativeDocumentMoniker": "Data\\EventEaseDBContext.cs",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\Data\\EventEaseDBContext.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Data\\EventEaseDBContext.cs",
               "RelativeToolTip": "Data\\EventEaseDBContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T10:43:09.551Z"
+              "WhenOpened": "2025-04-05T10:43:09.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:27:59.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T17:25:15.382Z",
+              "EditorCaption": ""
             }
           ]
         }

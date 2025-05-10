@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rqukxFNSmkE=",
+  "dgSpecHash": "eSc8Nd4CJl8=",
   "success": true,
-  "projectFilePath": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE-Part1\\EventEaseManagementSystem\\EventEaseManagementSystem.csproj",
+  "projectFilePath": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\EventEaseManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\naido\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\naido\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
