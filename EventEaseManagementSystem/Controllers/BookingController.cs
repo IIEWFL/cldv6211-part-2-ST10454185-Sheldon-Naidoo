@@ -65,6 +65,9 @@ namespace EventEaseManagementSystem.Controllers
             {
                 _context.Add(booking);
                 await _context.SaveChangesAsync();
+
+                // Set temporary message
+                TempData["SuccessMessage"] = $"Booking {booking?.BookingId} was added successfully!";
                 return RedirectToAction(nameof(Index));
             }
             ViewData["EventId"] = new SelectList(_context.Events, "EventId", "EventId", booking.EventId);
@@ -120,6 +123,9 @@ namespace EventEaseManagementSystem.Controllers
                         throw;
                     }
                 }
+
+                // Set temporary message
+                TempData["UpdateMessage"] = $"Booking {booking?.BookingId} was updated successfully!";
                 return RedirectToAction(nameof(Index));
             }
             ViewData["EventId"] = new SelectList(_context.Events, "EventId", "EventId", booking.EventId);
@@ -159,6 +165,9 @@ namespace EventEaseManagementSystem.Controllers
             }
 
             await _context.SaveChangesAsync();
+
+            // Set temporary message
+            TempData["DeleteMessage"] = $"Booking {booking?.BookingId} was deleted successfully!";
             return RedirectToAction(nameof(Index));
         }
 

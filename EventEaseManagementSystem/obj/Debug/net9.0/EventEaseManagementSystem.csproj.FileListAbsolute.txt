@@ -676,3 +676,6 @@ C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\
 C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE\EventEaseManagementSystem\obj\Debug\net9.0\EventEaseManagementSystem.pdb
 C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE\EventEaseManagementSystem\obj\Debug\net9.0\EventEaseManagementSystem.genruntimeconfig.cache
 C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE\EventEaseManagementSystem\obj\Debug\net9.0\ref\EventEaseManagementSystem.dll
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE\EventEaseManagementSystem\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE\EventEaseManagementSystem\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE\EventEaseManagementSystem\bin\Debug\net9.0\System.IO.Hashing.dll

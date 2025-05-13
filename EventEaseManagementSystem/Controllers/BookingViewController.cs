@@ -15,8 +15,17 @@ namespace EventEaseManagementSystem.Controllers
         }
 
         // GET: BookingView
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchQuery)
         {
+            var Bookings = _context.BookingViews.AsQueryable();
+            if (!string.IsNullOrEmpty(searchQuery))
+            {
+                Bookings = Bookings.Where(B =>
+                B.BookingId.ToString().Contains(searchQuery) ||
+                B.EventName.Contains(searchQuery));
+            }
+
+            // Fetch the data from the database
             var bookings = await _context.BookingViews.ToListAsync();
             return View(bookings);
         }

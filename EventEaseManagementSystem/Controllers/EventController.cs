@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EventEaseManagementSystem.Data;
 using EventEaseManagementSystem.Models;
+using Humanizer.Localisation;
 
 namespace EventEaseManagementSystem.Controllers
 {
@@ -63,6 +64,9 @@ namespace EventEaseManagementSystem.Controllers
             {
                 _context.Add(@event);
                 await _context.SaveChangesAsync();
+
+                // Set temporary message
+                TempData["SuccessMessage"] = $"Event {@event.EventName} was added successfully!";
                 return RedirectToAction(nameof(Index));
             }
             ViewData["VenueId"] = new SelectList(_context.Venues, "VenueId", "VenueId", @event.VenueId);
@@ -116,6 +120,8 @@ namespace EventEaseManagementSystem.Controllers
                         throw;
                     }
                 }
+                // Set temporary message
+                TempData["UpdateMessage"] = $"Event {@event.EventName} was updated successfully!";
                 return RedirectToAction(nameof(Index));
             }
             ViewData["VenueId"] = new SelectList(_context.Venues, "VenueId", "VenueId", @event.VenueId);
@@ -153,6 +159,9 @@ namespace EventEaseManagementSystem.Controllers
             }
 
             await _context.SaveChangesAsync();
+
+            // Set temporary message
+            TempData["DeleteMessage"] = $"Event {@event?.EventName} was deleted successfully!";
             return RedirectToAction(nameof(Index));
         }
 

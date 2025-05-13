@@ -6,6 +6,17 @@
 
 <h2>Booking List</h2>
 
+<form class="mb-4" method="get" asp-action"Index">
+    <div class="mb-2 mt-2">
+        <input type="text" name="searchQuery" class="form-control" placeholder="Search By Id or Event Name" value="@Context.Request.Query["searchQuery"]" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search Booking</button>
+    @if (!string.IsNullOrEmpty(Context.Request.Query["searchWuery"]))
+    {
+        <a href="@Url.Action("Index", "BookingView")" class="btn btn-outline-secondary">Clear</a>
+    }
+</form>
+
 <table class="table table-bordered table-striped">
     <thead>
         <tr>
