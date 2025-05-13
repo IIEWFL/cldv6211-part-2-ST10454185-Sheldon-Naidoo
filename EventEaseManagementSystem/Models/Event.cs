@@ -13,9 +13,9 @@ public partial class Event
 
     public string Description { get; set; } = null!;
 
-    public int VenueId { get; set; }
+    public int? VenueId { get; set; }
 
     public virtual ICollection<Booking> Bookings { get; set; } = new List<Booking>();
 
-    public virtual Venue Venue { get; set; } = null!;
+    public virtual Venue? Venue { get; set; }
 }

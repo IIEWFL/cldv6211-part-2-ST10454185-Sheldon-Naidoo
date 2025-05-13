@@ -19,17 +19,14 @@ EventID INT IDENTITY(1,1) PRIMARY KEY,
 EventName VARCHAR(150) NOT NULL,
 EventDate DATE NOT NULL,
 [Description] VARCHAR(150) NOT NULL,
-VenueID INT NOT NULL,
-CONSTRAINT Event_Venue FOREIGN KEY (VenueID) REFERENCES Venue(VenueID)
+VenueID INT FOREIGN KEY (VenueID) REFERENCES Venue(VenueID)
 );
 
 CREATE TABLE Booking (
 BookingID INT IDENTITY(1,1) PRIMARY KEY,
-VenueID INT NOT NULL,
-EventID INT NOT NULL,
+VenueID INT FOREIGN KEY (VenueID) REFERENCES Venue(VenueID),
+EventID INT FOREIGN KEY (EventID) REFERENCES [Event](EventID),
 BookingDate DATE NOT NULL,
-CONSTRAINT Booking_Venue FOREIGN KEY (VenueID) REFERENCES Venue(VenueID),
-CONSTRAINT Booking_Event FOREIGN KEY (EventID) REFERENCES [Event](EventID),
 CONSTRAINT UniqueBooking UNIQUE (VenueID, EventID, BookingDate)
 );
 
@@ -55,16 +52,19 @@ SELECT b.BookingID, v.VenueName, v.[Location], e.EventName, e.EventDate, b.Booki
 FROM Booking b
 JOIN Venue v ON b.VenueID = v.VenueID
 JOIN [Event] e ON b.EventID = e.EventID
-
 GO
 
 CREATE VIEW BookingView AS
-SELECT b.BookingID, b.BookingDate, v.VenueName, v.[Location] AS VenueLocation, v.Capacity, v.ImageURL AS [Image], e.EventName, e.EventDate, e.[Description] AS Details
+SELECT b.BookingID, b.BookingDate, v.VenueID, v.VenueName, v.[Location] AS VenueLocation, v.Capacity, v.ImageURL AS [Image], e.EventID, e.EventName, e.EventDate, e.[Description] AS Details
 FROM Booking b
 JOIN Venue v ON b.VenueID = v.VenueID
 JOIN [Event] e ON b.EventID = e.EventID
 ;
-
 GO
 
 SELECT * FROM BookingView
+
+INSERT INTO Customers
+VALUES ('Jane','Doe','https://www.dcbuilding.com/wp-content/uploads/2017/11/E35C8420-1.jpg','janedoe@gmail.com','0826557834')
+
+SELECT * FROM Customers

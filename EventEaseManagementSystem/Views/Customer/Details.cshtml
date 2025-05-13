@@ -1,0 +1,17 @@
+﻿@model EventEaseManagementSystem.Models.Customer
+
+<h1>Details</h1>
+
+<div class="container text-center">
+    <div class="card" style="width: 18rem;">
+        <img src="@Model.ProfilePicture" class="card-img-top" alt="@Model.FirstName">
+        <div class="card-body">
+            <h5 class="card-title">@Html.DisplayFor(model => model.FirstName) @Html.DisplayFor(model => model.LastName)</h5>
+            <p class="card-text">Customer Details:</p>
+            <p>Email: @Html.DisplayFor(model => model.Email)</p>
+            <p>Phone Number: @Html.DisplayFor(model => model.PhoneNumber)</p>
+            <a class="btn btn-success" asp-action="Edit" asp-route-id="@Model?.CustomerId">Edit</a>
+            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@Model?.CustomerId">Delete</a>
+        </div>
+    </div>
+</div>

@@ -18,6 +18,8 @@ public partial class EventEaseDBContext : DbContext
 
     public virtual DbSet<Booking> Bookings { get; set; }
 
+    public virtual DbSet<BookingView> BookingViews { get; set; }
+
     public virtual DbSet<Event> Events { get; set; }
 
     public virtual DbSet<Venue> Venues { get; set; }
@@ -47,6 +49,30 @@ public partial class EventEaseDBContext : DbContext
                 .HasForeignKey(d => d.VenueId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("Booking_Venue");
+        });
+
+        modelBuilder.Entity<BookingView>(entity =>
+        {
+            entity
+                .HasNoKey()
+                .ToView("BookingView");
+
+            entity.Property(e => e.BookingId).HasColumnName("BookingID");
+            entity.Property(e => e.Details)
+                .HasMaxLength(150)
+                .IsUnicode(false);
+            entity.Property(e => e.EventId).HasColumnName("EventID");
+            entity.Property(e => e.EventName)
+                .HasMaxLength(150)
+                .IsUnicode(false);
+            entity.Property(e => e.Image).IsUnicode(false);
+            entity.Property(e => e.VenueId).HasColumnName("VenueID");
+            entity.Property(e => e.VenueLocation)
+                .HasMaxLength(150)
+                .IsUnicode(false);
+            entity.Property(e => e.VenueName)
+                .HasMaxLength(150)
+                .IsUnicode(false);
         });
 
         modelBuilder.Entity<Event>(entity =>

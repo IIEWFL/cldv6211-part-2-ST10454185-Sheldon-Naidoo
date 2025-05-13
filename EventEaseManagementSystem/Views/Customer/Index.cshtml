@@ -1,0 +1,29 @@
+﻿@model IEnumerable<EventEaseManagementSystem.Models.Customer>
+
+<h1>Customer List</h1>
+
+<a class="btn btn-primary" asp-action="Create">Create</a>
+
+    <div class="container text-center">
+        <div class="row">
+            @foreach (var customer in Model)
+            {
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                    <img src="@customer.ProfilePicture" class="card-img-top" alt="@customer.FirstName">
+                    <div class="card-body">
+                        <h5 class="card-title">@customer.FirstName @customer.LastName</h5>
+                        <p class="card-text">Customer Details:</p>
+                        <p>Email: @customer.Email</p>
+                        <p>Phone Number: @customer.PhoneNumber</p>
+                        <a class="btn btn-outline-info" asp-action="Details" asp-route-id="@customer.CustomerId">Details</a>
+                        <a class="btn btn-success" asp-action="Edit" asp-route-id="@customer.CustomerId">Edit</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@customer.CustomerId">Delete</a>
+                    </div>
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+
+
