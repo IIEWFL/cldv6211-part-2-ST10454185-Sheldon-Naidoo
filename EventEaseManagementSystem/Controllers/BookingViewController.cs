@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using EventEaseManagementSystem.Data; // Use your actual DbContext namespace
+using EventEaseManagementSystem.Data; 
 using EventEaseManagementSystem.Models;
 
 namespace EventEaseManagementSystem.Controllers
@@ -30,7 +30,7 @@ namespace EventEaseManagementSystem.Controllers
             return View(bookings);
         }
 
-        // GET: BookingView/Details/5
+        // GET: BookingView Details
         public async Task<IActionResult> Details(int id)
         {
             var booking = await _context.BookingViews

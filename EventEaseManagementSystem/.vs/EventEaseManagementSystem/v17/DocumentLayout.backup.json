@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\migrations\\20250512195244_attributeswithnullandnotnulloperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:migrations\\20250512195244_attributeswithnullandnotnulloperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\migrations\\20250511100359_setmandatoryfieldstonotnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:migrations\\20250511100359_setmandatoryfieldstonotnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\controllers\\bookingviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:controllers\\bookingviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|c:\\sheldons uni work\\computer science\\year 2\\cldv6211\\st10454185_cldv6211_part1\\st10454185-poe\\eventeasemanagementsystem\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8658149-3D71-4C2C-A5DF-1B9E71FE0426}|EventEaseManagementSystem.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,6 +75,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250512195244_AttributesWithNullAndNotNullOperators.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250512195244_AttributesWithNullAndNotNullOperators.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250512195244_AttributesWithNullAndNotNullOperators.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250512195244_AttributesWithNullAndNotNullOperators.cs",
+              "RelativeToolTip": "Migrations\\20250512195244_AttributesWithNullAndNotNullOperators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:58:10.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250511100359_SetMandatoryFieldsToNotNull.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250511100359_SetMandatoryFieldsToNotNull.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250511100359_SetMandatoryFieldsToNotNull.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Migrations\\20250511100359_SetMandatoryFieldsToNotNull.cs",
+              "RelativeToolTip": "Migrations\\20250511100359_SetMandatoryFieldsToNotNull.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:58:02.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventEaseDBContext.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Data\\EventEaseDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\EventEaseDBContext.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Data\\EventEaseDBContext.cs",
+              "RelativeToolTip": "Data\\EventEaseDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:57:06.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingViewController.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\BookingViewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingViewController.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\BookingViewController.cs",
+              "RelativeToolTip": "Controllers\\BookingViewController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:55:08.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:53:25.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
@@ -67,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Booking\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
@@ -75,12 +160,11 @@
               "RelativeToolTip": "Views\\Booking\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAwwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T19:36:05.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T19:36:05.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Event\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Event\\Index.cshtml",
@@ -88,90 +172,11 @@
               "RelativeToolTip": "Views\\Event\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T19:35:05.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T19:35:05.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\EventController.cs",
-              "RelativeToolTip": "Controllers\\EventController.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAADwv6IAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T19:31:21.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Index.cshtml",
-              "RelativeToolTip": "Views\\Venue\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T19:28:17.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Venue\\Create.cshtml",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Create.cshtml",
-              "RelativeToolTip": "Views\\Venue\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T19:28:10.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Venue\\Delete.cshtml",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Venue\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T19:28:08.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Venue\\Edit.cshtml",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Venue\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T19:28:06.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VenueController.cs",
-              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\VenueController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
-              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\VenueController.cs",
-              "RelativeToolTip": "Controllers\\VenueController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAYwIkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:01:57.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Venue.cs",
               "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Models\\Venue.cs",
               "RelativeDocumentMoniker": "Models\\Venue.cs",
@@ -181,6 +186,78 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T13:00:50.711Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAADwv6IAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:31:21.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:28:17.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:28:10.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Delete.cshtml",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:28:08.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Edit.cshtml",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Views\\Venue\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:28:06.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Sheldons Uni work\\COMPUTER SCIENCE\\YEAR 2\\CLDV6211\\ST10454185_CLDV6211_Part1\\ST10454185-POE\\EventEaseManagementSystem\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAYwIkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:01:57.298Z"
             }
           ]
         }
